@@ -1,4 +1,11 @@
-# minima
+# YoAmo/minima
+
+## First customization
+
+This is the first version of my custom jekyll-minima blog site
+
+Keep track of changes here: 
+{% post_url 2010-07-21-name-of-post %}
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
 
