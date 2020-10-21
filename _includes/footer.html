@@ -9,7 +9,7 @@
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>{{ site.data.footer.subscribe}}</span>
+            </svg><span>{{ lang.subscribe }}</span>
           </a>
         </p>
       {%- if site.author %}
@@ -24,7 +24,7 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        <p>{{ lang.description | escape }}</p>
       </div>
     </div>
 

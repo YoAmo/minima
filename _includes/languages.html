@@ -1,0 +1,5 @@
+{% for item in site.data.language %}
+{% if item.title == site.lang %}
+  {%- assign lang = item.content -%}
+{% endif %}
+{% endfor %}

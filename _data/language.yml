@@ -1,0 +1,14 @@
+- title: en 
+  content:
+    description: >
+      This description shows in the bottom left side of the blog.
+      It is located in the general.yml file, inside the  /_data folder
+    subscribe: Subscribe
+    about: About
+- title: es
+  content: 
+    description: >
+      Esta es la descripción del blog que aparece abajo a la derecha.
+      Está guardada en el archivo general.yml dentro del directorio /_data
+    subscribe: Subscríbete
+    about: Quién soy
